@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Benjamín 👋
 
-<!--
-**Benji-9/Benji-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Tecnología Informática Avanzada en UADE (graduación dic. 2026).
+Me enfoco en **infraestructura, seguridad y backend**.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,ts,py,postgres,mysql&theme=dark)
+
+**Infra y herramientas**
+
+![Infra](https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,githubactions&theme=dark)
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-MAIL)
