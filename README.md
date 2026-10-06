@@ -43,7 +43,7 @@
 
 ### Bases de datos
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,neo4j,cassandra&theme=dark" alt="Bases de datos" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,neo4j&theme=dark" alt="Bases de datos" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
