@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Benjamín </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Estudiante+de+Gesti%C3%B3n+de+la+Tecnolog%C3%ADa+de+la+Informaci%C3%B3n;Backend+%7C+Infraestructura+%7C+Seguridad;IT+Support+%26+E-commerce" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines= Estudiante+de+Gesti%C3%B3n+de+la+Tecnolog%C3%ADa+de+la+Informaci%C3%B3n;Backend+%7C+Infraestructura+%7C+Seguridad;IT+Support+%26+E-commerce" alt="Typing SVG" />
 </p>
 
 <p align="center">
